@@ -1,0 +1,5 @@
+06-02-2025
+learn to apply different css styles
+created a front page of portfolio
+challenges:alignment issues
+commit
