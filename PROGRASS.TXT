@@ -3,3 +3,8 @@ learn to apply different css styles
 created a front page of portfolio
 challenges:alignment issues
 commit
+07-02-2025
+apply navigation bar for different sections
+create a simple portfolio
+challenges:confusion to selecting css styles
+commit
